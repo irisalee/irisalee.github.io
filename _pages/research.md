@@ -7,7 +7,7 @@ title: "Research"
 
 ## Job Market Paper
 
-Deposits in a Digital Era: Central Bank Digital Currency, Capital Structure, and Bank Risk Taking [(PDF)](/files/CBDC_JMP.pdf)
+Deposits in a Digital Era: Central Bank Digital Currency, Capital Structure, and Bank Risk Taking [(PDF)](/files/JMP_IL.pdf)
 
 <details>
 
