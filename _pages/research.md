@@ -7,13 +7,13 @@ title: "Research"
 
 ## Job Market Paper
 
-Deposits in a Digital Era: Central Bank Digital Currency, Capital Structure, and Bank Risk Taking
+Deposits in a Digital Era: Central Bank Digital Currency, Capital Structure, and Bank Risk Taking [(PDF)](/files/CBDC_JMP.pdf)
 
 <details>
 
 <summary> Abstract </summary>
 
-I develop a model to study how the usage of deposits as a means of payment affects the capital structure and effort of banks with risky investment projects. Because deposits carry a liquidity premium, they are a relatively inexpensive source of funding for banks, and banks will always issue deposits in equilibrium. However, this means banks will never exert the socially optimal level of effort, since they only do so when they are fully capital financed. The introduction of new digital payments, such as central bank digital currencies (CBDCs), that compete with bank deposits can raise banks' cost of funding. An interest-bearing CBDC can improve the efficiency of exchange, but the effect on bank lending depends on banks' net worth.  If banks have high net worth and face no capital-raising constraints, higher deposit interest rates lead banks to switch to capital financing and lowers their risk. But if banks have limited net worth and cannot raise more capital, risks can instead increase. 
+There has been concern about how new digital money competing with bank deposits could impact the quality of bank lending. I develop a model to study how the usage of deposits as a means of payment affects the capital structure and effort of banks with risky investments. Because deposits are used in transactions and carry a liquidity premium, they are a relatively inexpensive source of funding for banks. My model endogenizes this liquidity premium and shows how the provision of deposits creates a moral hazard problem. When deposits are necessary for payments, banks will never exert the socially optimal level of effort. The effect of introducing a new payment asset that could raise banks' funding costs, such as a central bank digital currency (CBDC), depends on banks' net worth. If banks turn to capital funding as the cost of deposits increases, the riskiness of bank lending decreases. But if banks do not have enough net worth to raise more capital funding, riskiness can instead increase. This highlights the potential tradeoffs between improving payment efficiency and lowering the quality of bank credit for total welfare.  
 
 
 </details>
